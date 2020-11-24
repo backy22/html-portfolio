@@ -56,7 +56,7 @@ var projectData = {
 'weathermap': {
   title: 'Weather Map',
   property: 'jQuery<br>API',
-  text: "This website shows the weather in any place you click on the map using the Open Weather Map API  and the Google Geocoding API. <p class=\"link\"><a href=\"https://ayatsubakino.com/creativecoding/weather\" target=\"blank\"> \>\> View the website</a>&nbsp;&nbsp;<a href=\"https://github.com/backy22/weather\" target=\"blank\"> \>\> Sourse code</a><p>",
+  text: "This website shows the weather in any place you click on the map using the Open Weather Map API  and the Google Geocoding API. <p class=\"link\"><a href=\"https://master.d25q4j1ouiximk.amplifyapp.com\" target=\"blank\"> \>\> View the website</a>&nbsp;&nbsp;<a href=\"https://github.com/backy22/weather\" target=\"blank\"> \>\> Sourse code</a><p>",
   images: ['SnNd_RBdF9I'],
   tag: 'development'},
 'sushi': {
