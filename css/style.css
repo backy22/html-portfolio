@@ -153,12 +153,18 @@ footer {
 }
 
 footer ul {
+  display: flex;
+  flex-flow: row nowrap;
   padding: 0;
-  width: 150px;
+  margin: 0;
+  justify-content: flex-start;
+  gap: 14px;
+  width: fit-content;
 }
 
 footer li {
   width: 30px;
+  flex-shrink: 0;
 }
 
 /* portfolio */
